@@ -145,7 +145,7 @@ let package = Package(
                     path: "./Sources/GraviteRTB"),
 
             .target(name:"AATKit-OgurySdk",
-                    dependencies: ["OgurySdk", "OguryAds", "OguryCore", "OMSDK_Ogury", "OguryAdapter"],
+                    dependencies: ["OgurySdk", "OguryAds", "OguryCore", "OMSDK_Ogury", "AATOguryAdapter"],
                     path: "./Sources/OguryAdsSources"),
 
             .target(name:"AATKit-GoogleCMP",
