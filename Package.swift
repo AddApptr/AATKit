@@ -161,7 +161,7 @@ let package = Package(
                     dependencies: [
                         .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
                         "AATFacebookAdapter",
-                        "FBAudienceNetwork",
+                        "AATFBAudienceNetwork",
                         "AATMetaBiddingAdapter"
                     ],
                     path: "./Sources/FacebookSources"),
