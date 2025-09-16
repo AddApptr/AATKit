@@ -126,7 +126,7 @@ let package = Package(
                     path: "./Sources/AppHarbr"),
 
             .target(name:"AATKit-AppNexus",
-                    dependencies: ["AATAppNexusSDK", "AATOMSDK_Microsoft", "AATAppNexusAdapter"],
+                    dependencies: ["AATAppNexusSDK", "AATAppNexusAdapter"],
                     path: "./Sources/AppNexusSources"),
 
             .target(name:"AATKit-Amazon",
