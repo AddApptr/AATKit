@@ -74,7 +74,8 @@ let package = Package(
         .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", exact: Version(12, 7, 0)),
         .package(url: "https://github.com/GeoEdgeSDK/AppHarbrSDK.git", exact: Version(1, 24, 1)),
         .package(url: "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git", "1.1.0"..<"4.0.0"),
-        .package(url: "https://github.com/AddApptr/RTBSPM.git", exact: Version(1, 8, 0))
+        .package(url: "https://github.com/AddApptr/RTBSPM.git", branch: "spm_core")
+//        (url: "https://github.com/AddApptr/RTBSPM.git", exact: Version(1, 8, 0))
         //        .package(name: "TeadsSDK", url: "https://github.com/teads/TeadsSDK-iOS", .exact("5.1.3")), Conflict in AppLovin dependency
     ],
     // Mark: Targets
@@ -140,8 +141,7 @@ let package = Package(
 
             .target(name:"AATKit-GraviteRTB",
                     dependencies: [
-                        .product(name: "RTBSPM_core", package: "RTBSPM"),
-                        .product(name: "RTBOMSDK", package: "RTBSPM"),
+                        .product(name: "RTBSDK", package: "RTBSPM"),
                         "AATGraviteRTBAdapter"
                     ],
                     path: "./Sources/GraviteRTB"),
