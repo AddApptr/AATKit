@@ -253,357 +253,357 @@ let package = Package(
         .binaryTarget(
             name: "AATAmazonAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATAmazonAdapter.zip",
-            checksum: "b06e375e39fdb56f560d9f4e0bf98f9690792de53acebe6df1ccf17dd932b36d"
+            checksum: "0fd2e885c3ca4292b1d7aea5a6ddc1a506460665e36b769ea87ca94d2070e98a"
         ),
         .binaryTarget(
             name: "AATUnityAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATUnityAdapter.zip",
-            checksum: "4d9c0ba3b81d0a071e822d3b5b3f29d389d07d161ae9b366f7c770dfebae5467"
+            checksum: "6e62dcb7abe2a367f50f02d0fac8dc37f4046397471f3c03ce7fca84e6da08fe"
         ),
         .binaryTarget(
             name: "AATAppNexusAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATAppNexusAdapter.zip",
-            checksum: "ecd00f8f93f736a9b596140c85745e0701cafd232539960ea88f2bbf4a0b9f4c"
+            checksum: "de7575b7fa8e18773082be9374228713ee3bb7a5e0f53e11dc6afb97104e67bb"
         ),
         .binaryTarget(
             name: "AATSmartAdAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATSmartAdAdapter.zip",
-            checksum: "8ffd622449706eb02b76541c2b1698b8645f3de1c2eda06e12bf38f176081529"
+            checksum: "e252a0e7d86b7e1c1bb2499c419766af2b8a48dcead643da48c79d0a9d3e95d0"
         ),
         .binaryTarget(
             name: "AATIronSourceAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATIronSourceAdapter.zip",
-            checksum: "7574e1c624621feeba9a2662b2b254a4411643587bff92a316389736f73debd9"
+            checksum: "58513e876b321b7fc38063ae52cbbbf8cf6dbc9b195b7c4695fb9175016eac30"
         ),
         .binaryTarget(
             name: "AATDFPPrebidAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATDFPPrebidAdapter.zip",
-            checksum: "031cd5cdb301c00d360ec9f4c612783e807fdde162e27fb22351c8325030152b"
+            checksum: "309d088194a9bb52369ebfea3b6fec65307748cc4a0b9c2c8ae33b72b51dd21e"
         ),
         .binaryTarget(
             name: "AATGraviteRTBAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATGraviteRTBAdapter.zip",
-            checksum: "32659bc4d60f270c3cfbbd2797a35ad9dde128f515aba418ca1893191a7c84d3"
+            checksum: "ee2ff89bfe2323612f59d476cba12dd8be1df2b2ed71e049ec00737d7fc6ca36"
         ),
         .binaryTarget(
             name: "AATDIOSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/DIOSDK.zip",
-            checksum: "25e542baa8a10f8f45893ca94443adad87e18977fffcb3d3e872be03c8410d07"
+            checksum: "76cffd454191e066414d5658ed2518543a7efce7271f3281f1795ad866393550"
         ),
         .binaryTarget(
             name: "AATConsentViewController",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/ConsentViewController.zip",
-            checksum: "bc9ade33c3a1d852f83a225640d42986cc5e3f3f13936d01887e427259167bbe"
+            checksum: "fdfc17f59c786666825cffb4f6674287face3ea512b957ec35eb2ec534f5c917"
         ),
         .binaryTarget(
             name: "AATSPMobileCore",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/SPMobileCore.zip",
-            checksum: "e90eb864fb27b2752ceb4cd8f68bf4c5cfd6a6d8bcc5abb1a1b82bbc3d9420ef"
+            checksum: "f51c0579624c6d24f8bab5f388c5924d7886201b8ba46af476be696300f15728"
         ),
         .binaryTarget(
             name: "AATHyBid",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/HyBid.zip",
-            checksum: "efb8d3acadfffc2c0f3f2a6224b9970b47b86306d21b302d74ebee2df74f3927"
+            checksum: "cdb3a8c547d93924b2cdb99ca10caea7489369ba524963b1f98ed4c53245fe00"
         ),
         .binaryTarget(
             name: "AATOMSDK_Pubnativenet",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/OMSDK_Pubnativenet.zip",
-            checksum: "b6b063c0f49378e2ffb23e6d4b658ffce4094d4e0a3dd11f12f3187488a4dcc1"
+            checksum: "b91c67e52558dc967c728a2a9bb013b90dcd4baedc28d0306342a484758f7a08"
         ),
         .binaryTarget(
             name: "AATATOM",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/ATOM.zip",
-            checksum: "f60cb3cd941fe8ad887f9e655584681b4b9da7d9d93c1f4a736ee0b72b4dfb75"
+            checksum: "c9cee8557aa41e099d51fd18b6e80d1b5298f0b718813777e34a134ade20785c"
         ),
         .binaryTarget(
             name: "AATVisxSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/VisxSDK.zip",
-            checksum: "7acf64d1bbf1c0be14b37a0da6993d07e347bed681c626a3cf721de3ced892ac"
+            checksum: "2bd6738e3c640f63d1708885e637adec6f29c6bac84bc6197dcc2d754e0591ca"
         ),
         .binaryTarget(
             name: "AATUtiq",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/Utiq.zip",
-            checksum: "72c2cfd82dff15e4a26dcea8fb1d06a7fe4da1d1e7287392cb900b1a1b942a55"
+            checksum: "8450d84c03bfb2ca50d054569058465708c7fdc985ebbe36bfb614c69a2922cc"
         ),
         .binaryTarget(
             name: "AATPrebidMobile",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/PrebidMobile.zip",
-            checksum: "5ea6564a1839b5f384583ac53f861c5385740605c6b9640eb056e119443e1732"
+            checksum: "13c8928f15cffe6cb45e5932079d372af8f32f55f683c35088dac99b3ecc9b2b"
         ),
         .binaryTarget(
             name: "AATSourcePointCMPAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATSourcePointCMPAdapter.zip",
-            checksum: "a9c312e8ac582b1d0eb2cf750db602c714c3bcfc22d42575b068504d2af668e6"
+            checksum: "49f60d8739525d657b1ecb8d15fa277a236e4dc3f75dba150b174102fea611d3"
         ),
         .binaryTarget(
             name: "AATAdMobDSPAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATAdMobDSPAdapter.zip",
-            checksum: "62e4340c99e89c7022c65507abbec150e1a0350450b328a84163d6c5eb7627e3"
+            checksum: "11b1ad1bae29de58143a1bf655a6ab6c22f8418ccf63acf03fe6fa7516d4a0e8"
         ),
         .binaryTarget(
             name: "AATSuperAwesomeAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATSuperAwesomeAdapter.zip",
-            checksum: "570d985e7e6ccbabdf876654bac4e3b256b7d6c2952bdf38a6fb46129251abdb"
+            checksum: "31273a9a380293a6b474e9e200134b1a9311b16f765447db7cb0aeb95fb18e57"
         ),
         .binaryTarget(
             name: "AATGoogleAdsAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATGoogleAdsAdapter.zip",
-            checksum: "6d02cbbe783bd211cc2026a67ddf39a7a25ddde897dac26cffd7175dffb42598"
+            checksum: "64c70d4d971580aa38f8b7459ab31a3ac4caa6667909de577f85de466f769a35"
         ),
         .binaryTarget(
             name: "AATDisplayIOAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATDisplayIOAdapter.zip",
-            checksum: "8cda2ba8dd348bd343e183c701d95aa57bd3349836a1bc925b332f3b36220a36"
+            checksum: "ab20c71ea8f633d86ac4b224111f99747283c0752da07e2bfa37318e4fe77b2e"
         ),
         .binaryTarget(
             name: "AATPubNativeAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATPubNativeAdapter.zip",
-            checksum: "89dd3b6d239d65c9f14c020f6b00e490107ec333a44f51b086e94ad27296fcab"
+            checksum: "3918549344e111e2085a04ac3af60bb283758d011f38475e6d429cf93ef56f22"
         ),
         .binaryTarget(
             name: "AATMetaBiddingAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATMetaBiddingAdapter.zip",
-            checksum: "a9cc05d431fde0f063ca47a2e010f821dce627c76b63908e80b6ff40d88f8d25"
+            checksum: "92ed5ac8853c78b35dfb7381c0b8295c24fd394d0f0daab319c167a7c3af2108"
         ),
         .binaryTarget(
             name: "AATVungleAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATVungleAdapter.zip",
-            checksum: "d87e095b845bc6c5ec64f4872f2c06aeafd7db822a44ccbc51f801c7b78756f2"
+            checksum: "f034eb6e959ba30f7b597382880a7eb9d7433d99f160a1afe1e94866cd0b5541"
         ),
         .binaryTarget(
             name: "AATFacebookAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATFacebookAdapter.zip",
-            checksum: "2fed05f2c1b0e0cfeb5f67f9d1cc849f01e72aec4e021a0589a5069f750a5b6e"
+            checksum: "bc4fdeaf70b639628bb34734d9caafdfb5229c975d2e87a4dc800730728b0cb8"
         ),
         .binaryTarget(
             name: "AATFeedAdAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATFeedAdAdapter.zip",
-            checksum: "e8c55c5ab843f6bf749ce7be9cad3dc7846e14680bdb5a50e8eabc701820c51b"
+            checksum: "48343e3a96e69643329868fbbbc2de94b5936751755f902e5bfe4a96bc1ddd59"
         ),
         .binaryTarget(
             name: "AATMintegralAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATMintegralAdapter.zip",
-            checksum: "a5a5e92656dfd3a95d15386d49e556774e1eca950ef2835fe60c8de7482b5ac9"
+            checksum: "8e83bfcfad691f851e71d2c250e1b5638f306f06c33c5625e886c9277d9b0824"
         ),
         .binaryTarget(
             name: "AATKidozAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATKidozAdapter.zip",
-            checksum: "ab2ae6d04e1bf6081be1602b3c98074db81cbe8a572b61b1e7d23ec5e74c552f"
+            checksum: "c6272b67b09c8a3d3281677a46781396ac0f6fc848fbbb6a117991a1f86beedf"
         ),
         .binaryTarget(
             name: "AATGoogleCMPAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATGoogleCMPAdapter.zip",
-            checksum: "f4b28be2a0d5d417a3133da5cc13d5611c5e456362f7b695866ec49478c64ed6"
+            checksum: "e31f5beb244cbc228a72b5931cbc1bdd2f09e7583722006c79a0b2d98ab2130e"
         ),
         .binaryTarget(
             name: "AATAppConsentAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATAppConsentAdapter.zip",
-            checksum: "0c08a6cc5bf76bd505809a061efeb0674c67de8bebb26e2d87cc3e6fcb93a453"
+            checksum: "210e89c5c7416e9d61c091b9578bd80233f90d70c3e5ddfc19bbbf674348ead7"
         ),
         .binaryTarget(
             name: "AATAdMobMediationAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATAdMobMediationAdapter.zip",
-            checksum: "8a7128037a1191b5b525a57cf9d6745a6debb55bfe81a9158226decf5bb6d168"
+            checksum: "9f92d06a24412e7a9b7d4335bf9b107747cea6197136cd284cc01d34c6d1ddab"
         ),
         .binaryTarget(
             name: "AATInMobiAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATInMobiAdapter.zip",
-            checksum: "cb9a2bec3143b15450162b71d7873cf323256e8ac3c8792040a89f0974336932"
+            checksum: "12187869c3c15a8d5669f969177ee3f11f4ee2fe19f79feab842ad3a6fb4e24a"
         ),
         .binaryTarget(
             name: "AATOguryAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATOguryAdapter.zip",
-            checksum: "6d3f8efdd36ef365ab4ec8b18c5f3611f0116ee7be7942509d3704cfbff0a59f"
+            checksum: "af97d11b82ac936e01965aa78d2e3664891ae9a0cbed5a07fbb5dbce090ef718"
         ),
         .binaryTarget(
             name: "AATUTIQAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATUTIQAdapter.zip",
-            checksum: "dec79ea9926b59b914a47f1c8a98a7013d7d582ec8b4b74312e6674af3962887"
+            checksum: "3e4a070bb2572441dc34f3aa62caaeea5cf31fe51ec5c2044374ece1612ac539"
         ),
         .binaryTarget(
             name: "AATYOCAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATYOCAdapter.zip",
-            checksum: "5aaf61af3ff4b9d2af41f959113fc039648786487249b41b54b68ff427cc1db8"
+            checksum: "33c6ae15a88e3b0becca45578263411d12156ff822a7793bbbee6a8487899d17"
         ),
         .binaryTarget(
             name: "AATKit",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATKit.zip",
-            checksum: "daaa1715806257a675b891e5bcd562c8938c68cf3f8ea761ed6ca4c28d7c00fe"
+            checksum: "a84ebd01fbd27d4274ddd66ae5b64975f0681ef66a4203ea0fb299d73bb9215e"
         ),
         .binaryTarget(
             name: "AATTappxAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATTappxAdapter.zip",
-            checksum: "0a1cba3be5dcf42fba6584d49abc6650650992317b64e55a0de82ceffae2a035"
+            checksum: "368711a2dcc1ad787bbc2a6d392ddbaa7ed91532b633d5f04414d0c03790cade"
         ),
         .binaryTarget(
             name: "AATAppLovinAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATAppLovinAdapter.zip",
-            checksum: "0e21190e384fc063dc2c0013c744ca5779ca6fcf766706a3b24041a3bcbd83b2"
+            checksum: "10f9f31278d85f31458b0d9fdc4a37122fd0b88e800d91aa9f9ed14270d61f32"
         ),
         .binaryTarget(
             name: "AATCriteoAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATCriteoAdapter.zip",
-            checksum: "59564391243ecaf3b1101405a38d68231d26e3f67f7037312de407ed9f3ab5d4"
+            checksum: "4d3e46696bc7f5107c0b4a32afebb3a208dfabe349fe4b1ace8c2c57844d00ff"
         ),
         .binaryTarget(
             name: "AATAppHarbrAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATAppHarbrAdapter.zip",
-            checksum: "be57f15b79f4b5f7933328b4c0f84df788e2b313f8ff7856fea1ea117f9f99dd"
+            checksum: "4c88a61a9606587b327ac925d80a7d7e5000de1bb10cc6b04c411c0c86c37697"
         ),
         .binaryTarget(
             name: "AATSmaatoAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATSmaatoAdapter.zip",
-            checksum: "725eb9c52fbdbcc131ca64a3f0b6ef9c8f959b2b31cb0051a4c4f9713cfa501d"
+            checksum: "51ae3d020400bb5bb4f6e70f8be0ef150a48a9d9d0108454c91211961c6c7bf4"
         ),
         .binaryTarget(
             name: "AATTeadsAdapter",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AATTeadsAdapter.zip",
-            checksum: "c17168ecd28d429d8b1949fa91d1325299ed615b372b16ef71be900f36e71059"
+            checksum: "d54523a2411b3a6a3aca2caf1dad449ef7fd13e5aa6dacc967b746f7e5bf6671"
         ),
         .binaryTarget(
             name: "AATAppConsent",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AppConsent.zip",
-            checksum: "0fa3da519e8643e3b076d3464e89b408ce8d81b42fd863b560c866fd363c39de"
+            checksum: "c76dcb59365fb4a3a474195f6eee2838006c65ac86bd6173ee640807118a1cad"
         ),
         .binaryTarget(
             name: "AATUnityAds",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/UnityAds.zip",
-            checksum: "ab8a518f3cbc288bc8e422bd9a66963d7df8051159d82beb5735f45f87e2280d"
+            checksum: "adca80cb428aa4105d25971bddf8910c7a7c1c96a9f7905d4e1e078fad412c39"
         ),
         .binaryTarget(
             name: "AATOguryCore",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/OguryCore.zip",
-            checksum: "39e4ba6038d149d602cf60e74afc72857fe40ef555d7e25d6029c6a383228268"
+            checksum: "014cda7b72ffed6842dfe35368fa9b4f8170c94cb758823e0c01e3c92c758bc7"
         ),
         .binaryTarget(
             name: "AATOMSDK_Ogury",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/OMSDK_Ogury.zip",
-            checksum: "6fd1bc9e6eee8822f098906b823db17c554dc79e14185571c0d09e72ca4387a3"
+            checksum: "4c1c640a6967cd062ac556cb34a8a6876eed3a63e62dd9f5e0a941ba1682c66b"
         ),
         .binaryTarget(
             name: "AATOguryAds",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/OguryAds.zip",
-            checksum: "15388a2489c8617307bb7803fe066b2fb373ea7c27cc96fbb88d1c51057a43ae"
+            checksum: "fc7239e9c306a9ecf3c33beb2520d9ace0509b439bfe8b42d39d96303e9fcf26"
         ),
         .binaryTarget(
             name: "AATInMobiSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/InMobiSDK.zip",
-            checksum: "a32e5bf87e8062b20960162470e5a028e1d01e408f18dea712a9097b5d45a2d5"
+            checksum: "4439adb7e733827629cd7125deba7ffd32e611e4d7de654d4604afb209148e41"
         ),
         .binaryTarget(
             name: "AATTeadsSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/TeadsSDK.zip",
-            checksum: "a6d76177546b9c3bf4556159ae0291d9192c05af51dd8ada82800abf3f01fdd7"
+            checksum: "bad0318bcdc90ed18f9f20f50d332537643c4105231144bd43e199bcb0b59177"
         ),
         .binaryTarget(
             name: "AATOMSDK_Teadstv",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/OMSDK_Teadstv.zip",
-            checksum: "d2f8648d9e0ea8cf06d39539d9cb243aaeda7e00f8b8bb1e1b044a7512cf601f"
+            checksum: "a44bf2ef5503c361266620f77c17fd4fa87a74b0258bcc04fcc6a00b8b743454"
         ),
         .binaryTarget(
             name: "AATOgurySdk",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/OgurySdk.zip",
-            checksum: "b7b12830a7b9c6b4a6b09d1671deaa1fb1eedd5b093ea7703273d8ad7a7e9641"
+            checksum: "6db3c56c0dfb88ec2324519222aa2948381da678b714a2f0c70479c2d21d77e9"
         ),
         .binaryTarget(
             name: "AATFBAudienceNetwork",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/FBAudienceNetwork.zip",
-            checksum: "f01767ad75ec8834abb1e4b36742bf2724533d5d88e9600bbaa34fd85e7c72d6"
+            checksum: "face8f553d985deefaab1c16ba603a77d73ec4ca9c373f97afd7edc52e87ac00"
         ),
         .binaryTarget(
             name: "AATTappxFramework",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/TappxFramework.zip",
-            checksum: "7d2e1adb8685eec8587c10ca1f00e39da14b323e1c9c32f936af99ca2c0b6492"
+            checksum: "0fc292259639800fa8efd5ae87182dd44edaabfa8fba9d3282ca77eb6437e349"
         ),
         .binaryTarget(
             name: "AATOMSDK_Tappx",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/OMSDK_Tappx.zip",
-            checksum: "7f09a17be9c205cbf2de429c1276a4c8bd6d3f52bf42cdeb546b27103decfb18"
+            checksum: "1d24f07eccd5f5830e0c64ce27a73fabbbf7fc1416e5dd53b29b9ab55ed3995f"
         ),
         .binaryTarget(
             name: "AATVungleAdsSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/VungleAdsSDK.zip",
-            checksum: "d1bfb2aa9da05eca270d7627dd5e2033d18b95f5af62df4184635671973c4628"
+            checksum: "1333ff9f2699976e0c3d1708f4231246bed9a4be48a5d5f894eb454806cb3a7e"
         ),
         .binaryTarget(
             name: "AATIronSourceAdQualitySDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/IronSourceAdQualitySDK.zip",
-            checksum: "ee780a4088384ada3b73f2446864a9b3005d76b451a9638726a8ba3a7caa888e"
+            checksum: "3255f120b3ba1d0677e3414bbcc5fb047bd58c0b35d55eef674cf31c961dd75d"
         ),
         .binaryTarget(
             name: "AATDTBiOSSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/DTBiOSSDK.zip",
-            checksum: "b50c9385dc14ea63e3f3fe57261860b221e343c1d7e9da1b1c0b7dee84c66a21"
+            checksum: "3ba78a745fcb69a1b56587127de636f8d1d598c318b7a5df57a886cd4028886f"
         ),
         .binaryTarget(
             name: "AATKidozSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/KidozSDK.zip",
-            checksum: "13e3b956b168aee6191bcd3837e259cc870034e7650060b3064efd27004175a3"
+            checksum: "a5ac1578768ee504f5384804e6c0a038fdd5ce9d3b353c1dad966eb39d23c35d"
         ),
         .binaryTarget(
             name: "AATFeedAd",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/FeedAd.zip",
-            checksum: "20a1ee16219e0605a7181c209d7d5bbf9f19050b39992ea6139e60096e97d769"
+            checksum: "0853dbf97288d9969dba10de86189902c6c500dd1d9b6a69b68593bd5e1ae381"
         ),
         .binaryTarget(
             name: "AATMTGSDKInterstitialVideo",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MTGSDKInterstitialVideo.zip",
-            checksum: "56faf305b77b351ac492d955461281aab1bcb10cef919c1af91db2e952dc6c77"
+            checksum: "f33f797dd1094326771e9296c9af8ea53cc88d87bccdbb8133e8aff22c9dfa2d"
         ),
         .binaryTarget(
             name: "AATMTGSDKBanner",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MTGSDKBanner.zip",
-            checksum: "bf54378028ddb21a7fa00622085111dec3a2ec07c8e17d22b2c68a813c36f8cb"
+            checksum: "84488ba3103dbd886e50c86a842ece24583094954be366282b0f3e9b7ffde437"
         ),
         .binaryTarget(
             name: "AATMTGSDKBidding",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MTGSDKBidding.zip",
-            checksum: "79acd35355debbb669125f457a48358d754823f7d6df29db9ac4f51f03faa014"
+            checksum: "9118ad17fa0cdba5fd97492a1b7975cba22d7d0bbbbeccfa662e5e79614cd5e0"
         ),
         .binaryTarget(
             name: "AATMTGSDKReward",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MTGSDKReward.zip",
-            checksum: "e6a585af65fc45a2ddb719bb27cb482c664d434caca6b477ceccd0705e4da6f1"
+            checksum: "fc72dbb5dcad2021e20c11a2e9189ed276c80b9a2768b5efa22b035c9da9b3b8"
         ),
         .binaryTarget(
             name: "AATMTGSDKNativeAdvanced",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MTGSDKNativeAdvanced.zip",
-            checksum: "bb63b2882813c8eb415a40fa3972b558631b917c708a5aebdd98e942726f0079"
+            checksum: "be954475a0638f05bf1b47b172f66e60b32f7e3d3452442c621dcb9570622aad"
         ),
         .binaryTarget(
             name: "AATMTGSDKSplash",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MTGSDKSplash.zip",
-            checksum: "0479959807ed4d6126f0eda66840e1ea72701ac2bafa3e10a6ddc32f86937931"
+            checksum: "636e98555ad4a07b1b3e7b3332f9caf44023967257e2f2c6587e37c02a844a7d"
         ),
         .binaryTarget(
             name: "AATMTGSDKNewInterstitial",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MTGSDKNewInterstitial.zip",
-            checksum: "1b6991bee5fbc2c7e91378cd66f730078dadf85dae87b17588e179b18c152c55"
+            checksum: "98199f9932a1af9cfa946db33053a65c2da54ae0eb09105728056b1a67e80c52"
         ),
         .binaryTarget(
             name: "AATMTGSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MTGSDK.zip",
-            checksum: "ab3cba0a2b8f778c9f443bf528c2aa21a54e3af4904015958f6fbbe81e2499d3"
+            checksum: "32bf4b12cbde37614f0b56bc75b461c253118be7624a0efb988f44357b786350"
         ),
         .binaryTarget(
             name: "AATIronSource",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/IronSource.zip",
-            checksum: "fbf561a1de8f21f4f4bffbfb193f162e33340afc3c11de65370d4f82e2373e5d"
+            checksum: "f40d449356536829153fa515387aad983bb99a0eaec9342d262c0fa7c48bbac9"
         ),
         .binaryTarget(
             name: "AATMolocoSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/MolocoSDK.zip",
-            checksum: "2824f0b4d0971d7c803e0306546f58ededee059e085d4e5eccd7ee097e9bd9b2"
+            checksum: "3dc8053629f2108cad6594e1d76a4d1ba8ca0f695044b2b7512b0ecd581fa9f1"
         ),
         .binaryTarget(
             name: "AATAppNexusSDK",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/AppNexusSDK.zip",
-            checksum: "93ed68792c2b826646c2e54694c6148e1a8502368733792009b1f70d99015633"
+            checksum: "d51b0e39cbf68ae77917a6ed173756b2741af8898e7ce1372c179adc1fd18ad8"
         ),
         .binaryTarget(
             name: "AATSASDisplayKit",
             url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.14.1/SASDisplayKit.zip",
-            checksum: "ba3c69d03c4940e6853fd730cbafb3d9283470029388104defaade26b27f4b3f"
+            checksum: "4491963b6d0410cdbf86d459fdd53a483944c031e632262d904c122fa0e40139"
         ),
     ]
 )
