@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let version = "3.14.0"
+let version = "3.14.1"
 let package = Package(
     name: "AATKit",
     platforms: [.iOS(.v12)],
