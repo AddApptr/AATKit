@@ -140,7 +140,8 @@ let package = Package(
 
             .target(name:"AATKit-GraviteRTB",
                     dependencies: [
-                        .product(name: "RTBSPM", package: "RTBSPM"),
+                        .product(name: "RTBSPM_core", package: "RTBSPM"),
+                        .product(name: "RTBOMSDK", package: "RTBSPM"),
                         "AATGraviteRTBAdapter"
                     ],
                     path: "./Sources/GraviteRTB"),
