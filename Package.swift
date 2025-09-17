@@ -97,7 +97,7 @@ let package = Package(
         // GooglePartnerBidding
         .target(name:"AATKit-GooglePartnerBidding",
                 dependencies: [
-                    .product(name: "AATGoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                    .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
                     "AATKit", "AATKit-GraviteRTB",
                     "AATAdMobDSPAdapter"
                 ],
@@ -106,14 +106,14 @@ let package = Package(
         // MARK - Dependencies Targets
         .target(name: "AATKit-GoogleMobileAds",
                 dependencies: [
-                    .product(name: "AATGoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
+                    .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads"),
                     "AATGoogleAdsAdapter",
                 ],
                 path: "./Sources/GoogleMobileAdsSources"),
 
             .target(name: "AATKit-AppLovin",
                     dependencies: [
-                        .product(name: "AATAppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
+                        .product(name: "AppLovinSDK", package: "AppLovin-MAX-Swift-Package"),
                         "AATAppLovinAdapter"
                     ],
                     path: "./Sources/AppLovinSources"),
