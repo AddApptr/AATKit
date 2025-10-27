@@ -69,7 +69,7 @@ let package = Package(
 
     ],
     dependencies: [
-        .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git", exact: Version(13, 3, 1)),
+        .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git", exact: Version(13, 4, 0)),
         .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", exact: Version(12, 12, 0)),
         .package(url: "https://github.com/GeoEdgeSDK/AppHarbrSDK.git", exact: Version(1, 26, 1)),
         .package(url: "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git", "1.1.0"..<"4.0.0"),
