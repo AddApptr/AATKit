@@ -207,7 +207,7 @@ let package = Package(
                     path: "./Sources/PubnativeSources"),
 
             .target(name:"AATKit-Prebid",
-                    dependencies: ["AATPrebidMobile", "AATDFPPrebidAdapter"],
+                    dependencies: ["AATPrebidMobile", "AATOMSDK_Prebidorg", "AATDFPPrebidAdapter"],
                     path: "./Sources/PrebidSources"),
 
             .target(name:"AATKit-Unity",
