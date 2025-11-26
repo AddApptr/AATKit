@@ -177,7 +177,7 @@ let package = Package(
                 ], path: "./Sources/MetaBidingSources"),
 
             .target(name:"AATKit-Moloco",
-                    dependencies: ["AATMolocoBiddingDSPAdapter", "AATMolocoSDK"],
+                    dependencies: ["AATMolocoBiddingDSPAdapter", "AATMolocoSDK", "AATKit", "AATKit-GraviteRTB",],
                     path: "./Sources/MolocoSources"),
 
             .target(name:"AATKit-SmartAd",
