@@ -22,6 +22,7 @@ let package = Package(
         .library(name: "AATKit-FeedAd", targets: ["AATKit-FeedAd"]),
         .library(name: "AATKit-GraviteRTB", targets: ["AATKit-GraviteRTB"]),
         .library(name: "AATKit-SmartAd", targets: ["AATKit-SmartAd"]),
+        .library(name: "AATKit-Moloco", targets: ["AATKit-Moloco"]),
         .library(name: "AATKit-YOC", targets: ["AATKit-YOC"]),
         .library(name: "AATKit-InMobi", targets: ["AATKit-InMobi"]),
         .library(name: "AATKit-IronSource", targets: ["AATKit-IronSource"]),
@@ -64,7 +65,8 @@ let package = Package(
                                                    "AATKit-Facebook",
                                                    "AATKit-AppNexus",
                                                    "AATKit-Prebid",
-                                                   "AATKit-AATMetaBiddingAdapter"
+                                                   "AATKit-AATMetaBiddingAdapter",
+                                                   "AATKit-Moloco"
                                                   ]),
 
     ],
@@ -173,6 +175,10 @@ let package = Package(
                     "AATKit-Facebook",
                     "AATMetaBiddingAdapter"
                 ], path: "./Sources/MetaBidingSources"),
+
+            .target(name:"AATKit-Moloco",
+                    dependencies: ["AATMolocoBiddingDSPAdapter", "AATMolocoSDK"],
+                    path: "./Sources/MolocoSources"),
 
             .target(name:"AATKit-SmartAd",
                     dependencies: ["AATSASDisplayKit", "AATSmartAdAdapter"],
