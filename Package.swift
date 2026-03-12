@@ -131,6 +131,13 @@ let package = Package(
                     dependencies: ["AATAppNexusSDK", "AATAppNexusAdapter"],
                     path: "./Sources/AppNexusSources"),
 
+            .binaryTarget(
+                name: "OMSDK_Microsoft",
+                url:
+                    "https://adsdkprod.azureedge.net/mobile/ios/releases/9.10.1/dynamic/OMSDK_Microsoft.zip",
+                checksum: "e5857f8fd6f9a30ba2727bedc67a17e6b3901df4ab95e9a48fbbaefb6c86cbd9"
+            ),
+
             .target(name:"AATKit-Amazon",
                     dependencies: ["AATDTBiOSSDK", "AATAmazonAdapter"],
                     path: "./Sources/AmazonSources"),
