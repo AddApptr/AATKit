@@ -129,7 +129,10 @@ let package = Package(
 
             .target(name:"AATKit-AppNexus",
                     dependencies: ["AATAppNexusSDK", "AATAppNexusAdapter"],
-                    path: "./Sources/AppNexusSources"),
+                    path: "./Sources/AppNexusSources",
+                    resources: [
+                        .copy("ANSDKResources.bundle")
+                    ]),
 
             .target(name:"AATKit-Amazon",
                     dependencies: ["AATDTBiOSSDK", "AATAmazonAdapter"],
