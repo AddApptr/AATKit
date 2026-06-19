@@ -219,298 +219,298 @@ let package = Package(
         // Mark: Binary Targets
         .binaryTarget(
             name: "AATAmazonAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATAmazonAdapter.zip",
-            checksum: "97bde0432e26d0250869b0b5beaac3e367d04bfa4372bbe88eaa9bfe59b0d97b"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATAmazonAdapter.zip",
+            checksum: "4e7f5beb24f42caeb420d7b434c4feea3295758302ac028237fe515b534475b8"
         ),
         .binaryTarget(
             name: "AATUnityAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATUnityAdapter.zip",
-            checksum: "f3c9248871a7ff8dae9da0af852892161dfc51d5baaaefca5c19319c67d7656e"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATUnityAdapter.zip",
+            checksum: "0ecb90142c5d6ca49e942fd9c2e9adac0a50e55179cb80f7f2023b0c6c466a8a"
         ),
         .binaryTarget(
             name: "AATAppNexusAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATAppNexusAdapter.zip",
-            checksum: "9a76a9181c6db5e96f73e58a3b87ae724200735e70f253437cdd96eca1c3f7c9"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATAppNexusAdapter.zip",
+            checksum: "3226ba2becf0d9be696808df78d273793a67910019305ce7091796851634fee1"
         ),
         .binaryTarget(
             name: "AATIronSourceAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATIronSourceAdapter.zip",
-            checksum: "401a32ddc4b68a17fb5a175cb55df5eef05b38e279d41fffdc98d22b653420df"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATIronSourceAdapter.zip",
+            checksum: "41b7829fc59fe2affd02d3782ffd26363b3fe29d91ea630d9489b461dc296a60"
         ),
         .binaryTarget(
             name: "AATDFPPrebidAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATDFPPrebidAdapter.zip",
-            checksum: "182a3f8dcd4fd1473a305dfdb0dbaea1ded4771993b63494f4e0ed6a93fb9dd1"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATDFPPrebidAdapter.zip",
+            checksum: "9c40898c3044eb658b6a4f717eeab456de1d5d040eea91afd92140b040b6813d"
         ),
         .binaryTarget(
             name: "AATGraviteRTBAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATGraviteRTBAdapter.zip",
-            checksum: "3c8a58efa8872e78cf5a0ae5d7201ff0ff9fe5455b1a6a4571de7b51b2080463"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATGraviteRTBAdapter.zip",
+            checksum: "8267172acf14e8d1c3761a16f62bac9591ce96bb300f4eb6ea6c6f898f7ec8c9"
         ),
         .binaryTarget(
             name: "AATHyBid",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/HyBid.zip",
-            checksum: "e668e019c8bc0077321119daf20737bf1512e493cd4dcfdbc412f0672f2e4f7d"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/HyBid.zip",
+            checksum: "2a2ceb035b69827011b851df0d9668e41a69403287824fa22711dc66229c76c9"
         ),
         .binaryTarget(
             name: "AATOMSDK_Pubnativenet",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/OMSDK_Pubnativenet.zip",
-            checksum: "5c6f5d3358db9acc0aae4801165dbbb0a99955a8b560438b4dc305c5d6916136"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/OMSDK_Pubnativenet.zip",
+            checksum: "2facea57617a2dfee8d2f928f386583693aa7eba16553f45a3c597b40decd97d"
         ),
         .binaryTarget(
             name: "AATATOM",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/ATOM.zip",
-            checksum: "6d5db74dda7e0f10145526e21ac3bb7294158ce0b582dc2b73d2557c28040bbe"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/ATOM.zip",
+            checksum: "21c4eb541c7fc20fd99955c86c7de56e74a997511f5f0ce145566ef852596d2f"
         ),
         .binaryTarget(
             name: "AATOMSDK_Prebidorg",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/OMSDK_Prebidorg.zip",
-            checksum: "a9d27f56985a7fc934416b78b02ad79bbfd693d9123202f2ece5e4b2616237b0"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/OMSDK_Prebidorg.zip",
+            checksum: "383b32f7187f0398ebcf3e5abf1b5e451bd86e28ebde21326087ab23241afd90"
         ),
         .binaryTarget(
             name: "AATPrebidMobile",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/PrebidMobile.zip",
-            checksum: "965d81a1cfca97d5a0c86025636a31042383a861f4e8d2ccfc9c79601584f457"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/PrebidMobile.zip",
+            checksum: "145a56e5448d217d018c8316bc930c7017ce4f1c945ff1c4196f1d7c12c81965"
         ),
         .binaryTarget(
             name: "AATDIOSDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/DIOSDK.zip",
-            checksum: "8ae0cbc5425bd5d7134248043dacb751165b540ba9fc956e4484efb77e216bd0"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/DIOSDK.zip",
+            checksum: "b564e36711bb9a40dffe556f6844678f8fe80a87b3b34fd8a02b0b9ef48b74bc"
         ),
         .binaryTarget(
             name: "AATConsentViewController",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/ConsentViewController.zip",
-            checksum: "cc01df431ff0f41a4112c654f0763c0840216a3ac75d98f8b2caf4a1f25157b8"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/ConsentViewController.zip",
+            checksum: "fe2f230f605dd0cdb391a0db74ba8de391cbf137b4e4bee923b26d2497b1e050"
         ),
         .binaryTarget(
             name: "AATUtiq",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/Utiq.zip",
-            checksum: "5ee74f3fb55c49607a8fe0ff8145b4a977734760e823a83f2ad5c20292e821c7"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/Utiq.zip",
+            checksum: "b1f6c6077a99b4aa323f74a1696a2c5c54972aa80bb503cd8a502498c33af493"
         ),
         .binaryTarget(
             name: "AATSourcePointCMPAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATSourcePointCMPAdapter.zip",
-            checksum: "975f0a98437ffa04e3f1b2361cd304b6db1cce28f2c76e563ab47a47a9b978ea"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATSourcePointCMPAdapter.zip",
+            checksum: "23b2986d8178c48daa2840e73631b145948ecf470e34211eb0f424743c937ae9"
         ),
         .binaryTarget(
             name: "AATAdMobDSPAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATAdMobDSPAdapter.zip",
-            checksum: "decb6a4fa1b4b7bad6d9b66b8a93e2a3902301fad2ef5d1dfa9706bef33ebb0d"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATAdMobDSPAdapter.zip",
+            checksum: "28a8318726ce52a82a14aa8fe6dd5cae5afc540471f917e03ee5e20b35e45fce"
         ),
         .binaryTarget(
             name: "AATGoogleAdsAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATGoogleAdsAdapter.zip",
-            checksum: "8f4d83a9029defabea4452cc0c6bec2bcd9d896d7252308881ac4ae23c89cc1d"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATGoogleAdsAdapter.zip",
+            checksum: "0acf0e48201a1cdc6d94a2b51748018f5003bb6ca653d25ec81ead49d00e2437"
         ),
         .binaryTarget(
             name: "AATDisplayIOAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATDisplayIOAdapter.zip",
-            checksum: "60c87a10f6a01659fcf7a915239de87dc4c8c8ad1d60bf1d1faa774fcb0664ea"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATDisplayIOAdapter.zip",
+            checksum: "9248fa298a2a9cb22b1c3c0a4f43581e0ed9e1114e14318d7997b26a49330131"
         ),
         .binaryTarget(
             name: "AATPubNativeAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATPubNativeAdapter.zip",
-            checksum: "02421dd10db1396591acccefb69599b298f32faf0a9abbdec3eb74df7441282b"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATPubNativeAdapter.zip",
+            checksum: "bbb279f772b6ea40d3304cb7d10bed9be0ffe11ccdf5a735a8a41b699528e70f"
         ),
         .binaryTarget(
             name: "AATMetaBiddingAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATMetaBiddingAdapter.zip",
-            checksum: "13880417ce3f3ae98dc16c85402af81383088d9d0a81770d2b55962862552c67"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATMetaBiddingAdapter.zip",
+            checksum: "e1aaa4259d6cb01070b2ab4e77ebca16fb2d979af672c5a0090751cd299fb2cc"
         ),
         .binaryTarget(
             name: "AATVungleAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATVungleAdapter.zip",
-            checksum: "dd70c100c19f0f0c30655ab936ded968002e192002d3ea79bb09153fe6816df3"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATVungleAdapter.zip",
+            checksum: "73c49cf71e787783b7af2b285484725b3ba90fd23a7be9ed397ef67e308581fd"
         ),
         .binaryTarget(
             name: "AATDigitalTurbineBiddingAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATDigitalTurbineBiddingAdapter.zip",
-            checksum: "99befd0b84c1b882bef623f1ed77a6c2396a7a6fe5e0129ba5bb2bba5b6402af"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATDigitalTurbineBiddingAdapter.zip",
+            checksum: "128b919611e785053fe52f07565d3433c2ee555d4eb7517f36e4b40bb621577c"
         ),
         .binaryTarget(
             name: "AATMintegralAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATMintegralAdapter.zip",
-            checksum: "6b85c403bf7d46360a1556778dede11f575dccef90a2df8cdb8b681b9247ea51"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATMintegralAdapter.zip",
+            checksum: "a1b47f5e7ae97d15407487384770363bd190620be691e4d30a52121ca42fdb3c"
         ),
         .binaryTarget(
             name: "AATGoogleCMPAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATGoogleCMPAdapter.zip",
-            checksum: "22bef663ec033efff6fb96c193428c900272a802b09578acba2604f33419f82a"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATGoogleCMPAdapter.zip",
+            checksum: "24a7fd173df89ac8552c0e40d1a54c35923a597eb5e82cc537e6ef465dd862e4"
         ),
         .binaryTarget(
             name: "AATAppConsentAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATAppConsentAdapter.zip",
-            checksum: "99e4e7aa801a0491290e555d22a47c2f53ef3e9d6c29cf6b176d23ab43c45ded"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATAppConsentAdapter.zip",
+            checksum: "4bd3e4c7e52af6f906e78ebd80393019997c4efe7c7b166f3a594972a8a51897"
         ),
         .binaryTarget(
             name: "AATMolocoBiddingDSPAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATMolocoBiddingDSPAdapter.zip",
-            checksum: "6dd7c97ffb285b8f36f361368a9894e3471e2daa48e8fd505c5e96b025b8306c"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATMolocoBiddingDSPAdapter.zip",
+            checksum: "1e1422e471af08e2afc639669340e748b41eae6413ee95741a333aadf565a271"
         ),
         .binaryTarget(
             name: "AATAdMobMediationAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATAdMobMediationAdapter.zip",
-            checksum: "9bf1851f44b7e56bff107ec35779eabbead80fb39a01baac1a3417d3bf9ad32d"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATAdMobMediationAdapter.zip",
+            checksum: "cdbfc3cd3ba2d6e0644422af1b2e6719ebfb56025bb6337ba953d4096faa57d3"
         ),
         .binaryTarget(
             name: "AATVungleBiddingAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATVungleBiddingAdapter.zip",
-            checksum: "e55a112f7cce7cd88f258a1dfb3d629b109ae94b1e7bd6529651ba8b5101abed"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATVungleBiddingAdapter.zip",
+            checksum: "f227e468a33503b7dea206f1459630de63fe24894369729d44f7f046e49d8b93"
         ),
         .binaryTarget(
             name: "AATInMobiAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATInMobiAdapter.zip",
-            checksum: "5262521677df92847c32307d66e1a7bb92602aad38c5c893d733dff0fa1fc3be"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATInMobiAdapter.zip",
+            checksum: "6ea215b580d1c7fd0cfbd10f856f23dac627d302eac52a2868282818e5578a3d"
         ),
         .binaryTarget(
             name: "AATUTIQAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATUTIQAdapter.zip",
-            checksum: "2f9ae5246d5cfc853117befb148effba8e908d754953414db3c2699d97cd5703"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATUTIQAdapter.zip",
+            checksum: "5463bffbf59adf6e8b860b4e1480b768f9742444bd6933efd5e9a460c3192c87"
         ),
         .binaryTarget(
             name: "AATKit",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATKit.zip",
-            checksum: "f6973fbfb2ad6125f716ca8bfb251d3d857229ac1429b03cd2ce9368895232de"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATKit.zip",
+            checksum: "901c102778e62bd77425ba7ef739dd035cdc46cb9383f08eb164a4dbb0373128"
         ),
         .binaryTarget(
             name: "AATTappxAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATTappxAdapter.zip",
-            checksum: "12271fe1fbaefbc5918eb720259d5684099ba083320a0b206e43008f924859ac"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATTappxAdapter.zip",
+            checksum: "fe5a760bc73f4cf661c462414b4ec899d635448c647b8ef960012bc81e916322"
         ),
         .binaryTarget(
             name: "AATAppLovinAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATAppLovinAdapter.zip",
-            checksum: "718a62c4e6efa97a34faadcfb381e705d70aa8b5eb4c7da347d5f6897fcb4039"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATAppLovinAdapter.zip",
+            checksum: "fbb2ac4b6063e9c0fbf6231ff7c45be5cdce5dbc91d6ca8d46a68455a2a1db5c"
         ),
         .binaryTarget(
             name: "AATAppHarbrAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATAppHarbrAdapter.zip",
-            checksum: "e4522975a29d88a355ce04794c802d3f1cd9486ea009d5ffb9b18d967ed8f134"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATAppHarbrAdapter.zip",
+            checksum: "815f0e24b3f8d8ed09bc7a5681499f1c7d4d03a322151bcf50f91b787dda8aa7"
         ),
         .binaryTarget(
             name: "AATTeadsAdapter",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AATTeadsAdapter.zip",
-            checksum: "91ca657e70fe02ddac16e7c41d45c335d582e415e4f81d22cf0dd74a73443da5"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AATTeadsAdapter.zip",
+            checksum: "a0548b4a0d7bd8decb6fef63e04e19812e4efcc6c67d6b78980882ff91f43067"
         ),
         .binaryTarget(
             name: "AATAppConsent",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AppConsent.zip",
-            checksum: "5288c233f5cd80070ab2651d2e2861516d90ba2c2676a1326a22c8518077b7e1"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AppConsent.zip",
+            checksum: "3536bbf31b8c43bd5fdd69c55bbf8146709f2c7c1fe18a8dddf7b3367824790a"
         ),
         .binaryTarget(
             name: "AATUnityAds",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/UnityAds.zip",
-            checksum: "07cd442d29fef8f83637d224a57f579d836209717768ec364654311106dbef8c"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/UnityAds.zip",
+            checksum: "4c2f9d77e63297865b32f03deb67d55a9b5695677d9fe2341041829db61b564b"
         ),
         .binaryTarget(
             name: "AATIASDKCore",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/IASDKCore.zip",
-            checksum: "6156b99def0a962018d3110d80819ae4616f7d2d0be6744269c841f91ea2d27d"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/IASDKCore.zip",
+            checksum: "c10079651518e17651a41b68316d6f51f5b98d8e2ffb62d28aee534f1010886e"
         ),
         .binaryTarget(
             name: "AATInMobiSDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/InMobiSDK.zip",
-            checksum: "25e291113ea92c70a884796ad43d006dade484b51e53f260cd9342b57be8ca8b"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/InMobiSDK.zip",
+            checksum: "c8830dbb572be92c5c3ac95ffc876de09e1177e4b148c339c8ec3643d6f0d13f"
         ),
         .binaryTarget(
             name: "AATTeadsSDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/TeadsSDK.zip",
-            checksum: "6492a8c1aaa8fac36878d9a1af4f15fa5fddfda49c1f28fa8ede332e3ae80312"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/TeadsSDK.zip",
+            checksum: "1677f9340e1e6c94afd816a2453c7404f2d42fda0b0d91a429aa4c97305b8d95"
         ),
         .binaryTarget(
             name: "AATOMSDK_Teadstv",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/OMSDK_Teadstv.zip",
-            checksum: "888fec302d73754d7701ea54f12da49c2f25bf54f812622118b002363ba0b281"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/OMSDK_Teadstv.zip",
+            checksum: "d58d06de489c0d4d54e82799ccacb98d09f8aa4c056d8c52d74260cecbf933c4"
         ),
         .binaryTarget(
             name: "AATFBAudienceNetwork",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/FBAudienceNetwork.zip",
-            checksum: "094507d6cdc362d4aecaabe751e3eda391c364a35fec06519a901bc1a96d9972"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/FBAudienceNetwork.zip",
+            checksum: "3765dbccbffffa5706f9985f043551a18f9e6238db110825a51441a84378dd9f"
         ),
         .binaryTarget(
             name: "AATTappxFramework",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/TappxFramework.zip",
-            checksum: "d4ce8e7024400786a06875a27e1b2afaa6baf51fb07a48dd4ba47bd578d8673e"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/TappxFramework.zip",
+            checksum: "16b295c499a22fd0fb4e86f5ee70b70c330d87198e9645d68eecdc223d2a6b17"
         ),
         .binaryTarget(
             name: "AATOMSDK_Tappx",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/OMSDK_Tappx.zip",
-            checksum: "a8b1d3f90d30c7b2774b75aee244839f9d0647f54ff437ed73aac62196681374"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/OMSDK_Tappx.zip",
+            checksum: "b75eba9d3140dada3fcab7f6b4935543c16277b8d1fb4563dcd5cc0867abc453"
         ),
         .binaryTarget(
             name: "AATVungleAdsSDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/VungleAdsSDK.zip",
-            checksum: "0f20713540c504c89b35fcb38b0ce540694a58c08db89d062f68b295178f055f"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/VungleAdsSDK.zip",
+            checksum: "5397c910d69be70d8f4805942363b0137d29574ca86cd079aedda95ea51011e0"
         ),
         .binaryTarget(
             name: "AATIronSourceAdQualitySDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/IronSourceAdQualitySDK.zip",
-            checksum: "27eccc5fce1938690611178cb5045f308c4d1aa2f2687d2de12b3929b16eeefb"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/IronSourceAdQualitySDK.zip",
+            checksum: "757ef8f1ed0cdb4ca93cf1a50317e373510d55fa5600d20310bff3482e10aa82"
         ),
         .binaryTarget(
             name: "AATDTBiOSSDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/DTBiOSSDK.zip",
-            checksum: "915ecc27efc4f7bceda6e60566af13f89f98646ffefab73f1642b6c44f75277a"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/DTBiOSSDK.zip",
+            checksum: "00549a0ca841ad71018ed8e680aa693650bff084258120ff18c4214b7ba03837"
         ),
         .binaryTarget(
             name: "AATMTGSDKInterstitialVideo",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MTGSDKInterstitialVideo.zip",
-            checksum: "8c6f40199774dcd44b3c60b8bcf9873aec17f1a594832d447132189af9a93cb1"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MTGSDKInterstitialVideo.zip",
+            checksum: "52ff09816fecc47def9cfc8af20d03e04e921bc2dcbbd8575db278ad8f8675ad"
         ),
         .binaryTarget(
             name: "AATMTGSDKBanner",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MTGSDKBanner.zip",
-            checksum: "354b060c4c3997483250095434c77f724e8451267cb5bfd2a599c839d9b291ec"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MTGSDKBanner.zip",
+            checksum: "ad3834e73db10c456aa2a73fd13317a0eaff041e27909370e6784df5f762ebe6"
         ),
         .binaryTarget(
             name: "AATMTGSDKBidding",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MTGSDKBidding.zip",
-            checksum: "52f6b4d94ce8a58fd314b85e34c564b69f8f6db102fed1fbadd10b7ab343b692"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MTGSDKBidding.zip",
+            checksum: "98543f6a8dd80ae3a203e17340d28bc754cca56b382b6726871e8297a6cd0546"
         ),
         .binaryTarget(
             name: "AATMTGSDKReward",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MTGSDKReward.zip",
-            checksum: "52f1bd628519c01130b246d4f6dc2281b9a200b94848df35579d9ab9719bc5b3"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MTGSDKReward.zip",
+            checksum: "3fd05ebf0271f4d3c1a85e14589f93b64060f3818becd31326228addc6834c5d"
         ),
         .binaryTarget(
             name: "AATMTGSDKNativeAdvanced",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MTGSDKNativeAdvanced.zip",
-            checksum: "86ca35f4eb2a9c6cfbd90e97147eba6d02bc803f12ef33d2cbf71b1ae38f411b"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MTGSDKNativeAdvanced.zip",
+            checksum: "d29847c769fd5c8a09c380075c69afc83694b4e14d75976bfc8df2e43a16b03a"
         ),
         .binaryTarget(
             name: "AATMTGSDKSplash",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MTGSDKSplash.zip",
-            checksum: "288214de8134d3dda337a37252f2c90586c4856afe56f91856b081d335259976"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MTGSDKSplash.zip",
+            checksum: "bde815cf7a1e14128fe08b4676ace043709d0d75e9cceee4665da7258cc49c9d"
         ),
         .binaryTarget(
             name: "AATMTGSDKNewInterstitial",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MTGSDKNewInterstitial.zip",
-            checksum: "b5d16d6658cf1e15ca1addc61a4e4d2c8da414493c7ad04d81dcd40c3e1c7c0d"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MTGSDKNewInterstitial.zip",
+            checksum: "3637304549574df5061a1982a33e2eaa9f04e0688d06aee5c1b7caf384c119fe"
         ),
         .binaryTarget(
             name: "AATMTGSDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MTGSDK.zip",
-            checksum: "7475e598e1ec91d8e97076910bffbd9689bfe0197a6f65b0853a41378c84ee73"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MTGSDK.zip",
+            checksum: "914f4f7808b0d61c67316dbfc764eb3641a1ba2b46e23bf87a8cf77bd9c6b96e"
         ),
         .binaryTarget(
             name: "AATIronSource",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/IronSource.zip",
-            checksum: "ba441b8d3e79acb409aee66a69d006f0c41d37ebb89d1ee9b214394878094bf2"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/IronSource.zip",
+            checksum: "cc3a4045f27fd0881a91dc433446d082492ca3fab23fbcc52b51d3c36b4ca34f"
         ),
         .binaryTarget(
             name: "AATMolocoSDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/MolocoSDK.zip",
-            checksum: "0f9a6cf039920aeda236aff4195f707208f4b43850f5d5a31b4d4e1386923ec1"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/MolocoSDK.zip",
+            checksum: "2f133961dbef8c52eddf3eec84cb317ac8a56e7406848ae2507a30678485c7c6"
         ),
         .binaryTarget(
             name: "AATOMSDK_Microsoft",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/OMSDK_Microsoft.zip",
-            checksum: "d97f709314389d315109529f9a382638e2bacaf903aca513b8ad2d57b1101f25"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/OMSDK_Microsoft.zip",
+            checksum: "5d661d7d15aa76eb769cfea351d7efda3eb1b3abe6b9bf2aa27add8eb5a1cbc0"
         ),
         .binaryTarget(
             name: "AATAppNexusSDK",
-            url: "https://ios-sdk.aatkit.com/AATKit_SPM/3.17.0-beta1/AppNexusSDK.zip",
-            checksum: "c0cf2db3aed69d6f220b5f95e38a634bdcf7e77751e74a77669e85716a54fad1"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.17.0-beta2/AppNexusSDK.zip",
+            checksum: "fc41b3e46a1c83e462ab46986644cf2da3b6eb3245f8665181092d4b6c5777e9"
         ),
     ]
 )
