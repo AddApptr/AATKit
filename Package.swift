@@ -65,7 +65,7 @@ let package = Package(
         .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", .upToNextMinor(from: "13.4.0")),
         .package(url: "https://github.com/GeoEdgeSDK/AppHarbrSDK.git", .upToNextMinor(from: "1.33.1")),
         .package(url: "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git", "1.1.0"..<"4.0.0"),
-        .package(url: "https://github.com/AddApptr/RTBSDK.git", .upToNextMinor(from: "1.10.0-beta1"))
+        .package(url: "https://github.com/AddApptr/RTBSDK.git", .upToNextMinor(from: "1.10.0-beta2"))
         //        .package(name: "TeadsSDK", url: "https://github.com/teads/TeadsSDK-iOS", .exact("5.1.3")), Conflict in AppLovin dependency
     ],
     // Mark: Targets
