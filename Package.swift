@@ -34,8 +34,8 @@ let package = Package(
         // Mark: Binary Targets
         .binaryTarget(
             name: "AATKit",
-            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.18.0-beta1/AATKit.zip",
-            checksum: "11c31328dfb3d35fa26e537b116b6671ff43e17a7cce30aa93245e7b853b1209"
+            url: "https://gravite-sdk-releases.s3.eu-central-1.amazonaws.com/aatkit/ios/spm/3.18.0-beta2/AATKit.zip",
+            checksum: "0be2486eac2b369242fdbc87b34c12300ffa0a265e6d71a5230b0e1003a2fbfa"
         ),
     ]
 )
